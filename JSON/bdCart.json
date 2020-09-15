@@ -1,0 +1,23 @@
+[
+    {
+        "productName": "MANGO PEOPLE T-SHIRT",
+        "productPrice": 52,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_1.png",
+        "productId": "prod_0",
+        "productQuantity": 1
+    },
+    {
+        "productName": "BANANA PEOPLE T-SHIRT",
+        "productPrice": 53,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_2.png",
+        "productId": "prod_1",
+        "productQuantity": 1
+    },
+    {
+        "productName": "STRAWBERRY PEOPLE T-SHIRT",
+        "productPrice": 55,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_3.png",
+        "productId": "prod_2",
+        "productQuantity": 1
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "productName": "MANGO PEOPLE T-SHIRT",
+        "productPrice": 52,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_1.png",
+        "productId": "prod_0",
+        "productQuantity": null
+    },
+    {
+        "productName": "BANANA PEOPLE T-SHIRT",
+        "productPrice": 53,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_2.png",
+        "productId": "prod_1",
+        "productQuantity": null
+    },
+    {
+        "productName": "STRAWBERRY PEOPLE T-SHIRT",
+        "productPrice": 55,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_3.png",
+        "productId": "prod_2",
+        "productQuantity": null
+    },
+    {
+        "productName": "ORANGE PEOPLE T-SHIRT",
+        "productPrice": 67,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_4.png",
+        "productId": "prod_3",
+        "productQuantity": null
+    },
+    {
+        "productName": "PUMKIN PEOPLE T-SHIRT",
+        "productPrice": 69,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_5.png",
+        "productId": "prod_4",
+        "productQuantity": null
+    },
+    {
+        "productName": "PINEAPPLE PEOPLE T-SHIRT",
+        "productPrice": 94,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_6.png",
+        "productId": "prod_5",
+        "productQuantity": null
+    },
+    {
+        "productName": "CUCUMBER PEOPLE T-SHIRT",
+        "productPrice": 23,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_7.png",
+        "productId": "prod_6",
+        "productQuantity": null
+    },
+    {
+        "productName": "TOMATO PEOPLE T-SHIRT",
+        "productPrice": 45,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_8.png",
+        "productId": "prod_7",
+        "productQuantity": null
+    },
+    {
+        "productName": "PUMKIN PEOPLE T-SHIRT",
+        "productPrice": 84,
+        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_9.png",
+        "productId": "prod_8",
+        "productQuantity": null
+    }
+]
