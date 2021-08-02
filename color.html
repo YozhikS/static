@@ -1,0 +1,10 @@
+<script>
+  let elementTd = document.getElementsByTagName("td");
+  Array.prototype.forEach.call(elementTd, function(td) {
+    if (td.innerHTML.includes('\+')) {
+      td.setAttribute('title', "÷вет фона: «еленый");
+    } else if (td.innerHTML.includes('\-')) {
+      td.setAttribute('title', "÷вет фона:  расный");
+    }
+  });
+</script>
